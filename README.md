@@ -3,7 +3,7 @@ _Dist_Lin_Ubuntu24.04.iso
 
 Скачивание в обход слабого интернета.
 
-https://github.com/IvanSibirevV2/Dist_Lin_Ubuntu24.04/raw/refs/heads/main/DounLoad_ubuntu2404.bat
+https://github.com/IvanSibirevV2/Dist_Lin_Ubuntu24.04/raw/refs/heads/main/download_ubuntu2404
 
 Положить в загрузки.
 
